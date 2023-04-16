@@ -1,0 +1,5 @@
+* SHAZO: SHAZOとは統合型業務システムのパッケージです。SHAZOファミリーには、SHAZO 経理、SHAZO Docs、SHAZO Calc、SHAZO Chatなど、多くのアプリケーションが含まれています。
+* SHAZO Docs: SHAZO Docsはドキュメント作成アプリケーションです。SHAZO Docsを使えば、テキスト、画像、表などを自由に配置して、見やすく美しい文書を作成できます。SHAZO Docsはクラウド上で動作するので、どこからでもアクセスでき、共有や編集も簡単にできます。SHAZO DocsはMicrosoft WordやGoogle Docsと互換性があります。
+* SHAZO 経理: SHAZO 経理は会計管理アプリケーションです。SHAZO 経理を使えば、売上、仕入れ、経費などの帳簿を簡単に記録できます。SHAZO 経理は自動で税金や決算書などの計算を行い、正確な会計情報を提供します。SHAZO 経理はQuickBooksやXeroと互換性があります。
+* SHAZO Calc: SHAZO Calcはスプレッドシートアプリケーションです。SHAZO Calcを使えば、数値や文字列などのデータを入力して、グラフやチャートなどの視覚的な表現を作成できます。SHAZO Calcは高度な関数や分析ツールを備えており、データの処理や解析に役立ちます。SHAZO CalcはMicrosoft ExcelやGoogle Sheetsと互換性があります。
+* SHAZO Chat: SHAZO Chatはコミュニケーションアプリケーションです。SHAZO Chatを使えば、チームメンバーやクライアントとリアルタイムにメッセージやファイルをやり取りできます。SHAZO Chatはグループチャットやビデオ通話などの機能を備えており、コラボレーションやフィードバックに便利です。SHAZO ChatはSlackやZoomと互換性があります。
